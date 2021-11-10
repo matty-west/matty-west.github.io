@@ -7,6 +7,22 @@ title: Bio
 ___  
 
 #### Professional Summary
-A research and biotech professional with experience in crop protection, RNAi, genome engineering and analytics.  
-My ideal role is acting as the interface between research, product development, and business relations.
 
+A research and biotech professional with experience in crop protection, RNAi, genome engineering and analytics.  
+My ideal role is acting as the interface between research, product development, and business relations.  
+
+#### Skills
+
+Laboratory: molecular biology, in vitro systems, controlled environments, microbiology, bioassays
+Analytical: data analysis, business intelligence, SQL, Python
+Communication: audience-focused reporting, data-driven, diplomatic  
+
+#### Experience
+
+Pebble Labs Nov2019-Jun2021
+Research Associate
+
+Trait Biosciences Nov2019-Aug2020
+Lab and Greenhouse Research
+
+Clemson University
