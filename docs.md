@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documents
-permalink: /about/
+permalink: /docs/
 ---
 
 My name is Matt and I'm a little bit of everything. 
