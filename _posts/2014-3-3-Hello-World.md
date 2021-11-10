@@ -13,8 +13,8 @@ My ideal role is acting as the interface between research, product development, 
 
 #### Skills
 
-Laboratory: molecular biology, in vitro systems, controlled environments, microbiology, bioassays
-Analytical: data analysis, business intelligence, SQL, Python
+Laboratory: molecular biology, in vitro systems, controlled environments, microbiology, bioassays  
+Analytical: data analysis, business intelligence, SQL, Python  
 Communication: audience-focused reporting, data-driven, diplomatic  
 
 #### Experience
