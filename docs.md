@@ -1,5 +1,5 @@
 ---
-layout: page2docs
+layout: posts
 title: Documents
 permalink: /docs/
 ---
