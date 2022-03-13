@@ -1,1 +1,7 @@
+---
+layout: page
+title: Change in CPI for various food (1992-2021)
+---
+___  
+
 {% include fpc_1992_2021_ultimate.html %}
