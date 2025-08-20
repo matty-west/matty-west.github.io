@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'RuneScape Plain 11';
+    src: url('fonts/runescape-plain-11.ttf') format('truetype');
+}
+
+body {
+    font-family: 'RuneScape Plain 11', 'Times New Roman', serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+h1, h2 {
+    color: #ffffff;
+}
+
+section {
+    margin-bottom: 2rem;
+}
